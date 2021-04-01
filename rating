@@ -1,0 +1,68 @@
+
+
+
+
+
+
+<h3>Skills</h3>
+<table>
+  <tr>
+    <td>
+      <p>Web Developer</p>
+    </td>
+    <td>
+      <p>
+      <div class="rating">
+        <span>🌟</span>
+        <span>🌟</span>
+        <span>🌟</span>
+        <span>🌟</span>
+        <span>🌟</span>
+      </div>
+      </p>
+    </td>
+    <td>
+      <p>Dance</p>
+    </td>
+    <td>
+      </p>
+      <div class="rating">
+        <span>🌟</span>
+        <span>🌟</span>
+        <span>🌟</span>
+        <span>🌟</span>
+      </div>
+      </p>
+    </td>
+
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><p>Drawing</p>
+  </td>
+    <td>
+      <p>
+      <div class="rating">
+        <span>🌟</span>
+        <span>🌟</span>
+        <span>🌟</span>
+
+      </div>
+      </p>
+    </td>
+    <td>
+      <p>Photography</p>
+    </td>
+    <td>
+      </p>
+      <div class="rating">
+        <span>🌟</span>
+        <span>🌟</span>
+      </div>
+      </p>
+    </td>
+
+  </tr>
+</table>
